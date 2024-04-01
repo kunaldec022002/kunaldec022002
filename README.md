@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaldec022002" alt="kunaldec022002" /></a> </p>
 
-- 🔭 I’m currently working on [News-App](https://github.com/kunaldec022002/News_App)
+- 🔭 I’m currently working on [News-App](https://github.com/kunaldec022002/News-App)
 
 - 🌱 I’m currently learning **Bootstrap, Tailwand**
 
