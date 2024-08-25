@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [All Projects](https://github.com/kunaldec022002?tab=repositories)
 
-- 💬 Ask me about **React**
+
 
 - 📫 How to reach me **kunalingale72@gmail.com**
 
