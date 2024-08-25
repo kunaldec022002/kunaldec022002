@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, Tailwand**
 
-- 🤝 I’m looking for help with [Myntra_Clone](https://github.com/kunaldec022002/Myntra_Clone-JS)
-
 - 👨‍💻 All of my projects are available at [All Projects](https://github.com/kunaldec022002?tab=repositories)
-
-
 
 - 📫 How to reach me **kunalingale72@gmail.com**
 
