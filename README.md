@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaldec022002" alt="kunaldec022002" /></a> </p>
 
-- 🔭 I’m currently working on [Big_Bazar](https://github.com/kunaldec022002/Big_Bazar)
-
 - 🌱 I’m currently learning **Express JS, Angular JS**
 
-- 👨‍💻 All of my projects are available at [All Projects](https://github.com/kunaldec022002?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://portfolio-topaz-ten-49.vercel.app/)
 
 - 📫 How to reach me **kunalingale72@gmail.com**
 
