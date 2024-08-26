@@ -3,14 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaldec022002" alt="kunaldec022002" /></a> </p>
 
-- 🌱 I’m currently learning **Express JS, Angular JS**
+- 🌱 I’m currently learning **Express JS,MONGO DB,Node JS, Angular JS**
 
 - 👨‍💻 All of my projects are available at (https://portfolio-topaz-ten-49.vercel.app/)
-
+- 
 - 📫 How to reach me **kunalingale72@gmail.com**
-
-- ⚡ Fun fact **Funny and Hard Working**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-ingale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-ingale/" height="30" width="40" /></a>
